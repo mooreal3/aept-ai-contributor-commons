@@ -16,8 +16,10 @@ remain reserved unless and until an explicit license is added.
 
 ## View the project
 
-Open [`index.html`](./index.html) directly, or visit the production deployment
-linked in this repository's GitHub metadata.
+Open [`index.html`](./index.html) directly, or visit the public production
+deployment:
+
+<https://aept-ai-contributor-commons.vercel.app>
 
 ![AEPT-AI Contributor Commons mind map](./assets/mind-map-preview.png)
 
